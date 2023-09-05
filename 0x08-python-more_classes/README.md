@@ -4,4 +4,4 @@ In this project, I continued to practice object-oriented programming in Python. 
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests]: Folder of test files. Provided by Holberton School.
